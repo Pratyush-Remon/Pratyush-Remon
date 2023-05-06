@@ -2,7 +2,7 @@
 </p>
 
 # <p align='center'><img align='center' alt='welcome' width='10%' src='https://cdn.discordapp.com/attachments/901109068700209152/1104475113392455751/ezgif-2-9deec11442.gif'></br>About Me </p>
-<h4>👦 I am Pratyush,&nbspfrom India and I love to learn new things!</h4>
+<h4>👦 I am Pratyush and I love to learn new things!</h4>
 <h4>🎓 Currently Student at Amity university</h4>
 <h4>🎮 Interested in GameDevelopment</h3>
 </br></br></p>
