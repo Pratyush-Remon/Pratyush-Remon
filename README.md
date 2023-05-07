@@ -12,13 +12,13 @@
   
 
 <p align='left'>
- <h3> Languages: </h3></p>
+ <h3> Languages:  <img align='right' width='50%' src='https://github-readme-stats.vercel.app/api?username=Pratyush-Remon&theme=blue-green'> </h3></p>
  <p>
 <img align='center' src='https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white'>  <img align='center' src='https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white'>  <img align='center' src='https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white'>  <img align='center'src='https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white'>
 </p>
 </p>
 <p align='left'>
- <h3> Databases: <img align='right' width='40%' src='https://github-readme-stats.vercel.app/api?username=Pratyush-Remon&theme=blue-green'> </h3></p>
+ <h3> Databases:</h3></p>
  <p>
 <img align='center' src='https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white'></p>
 </p>
