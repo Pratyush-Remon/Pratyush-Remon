@@ -29,6 +29,12 @@
 <img align='center' src='https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white'>  <img align='center' src='https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white'></p>
 </p>
 
+<p align='left'>
+ <h3> Miscs: </h3></p>
+ <p>
+<img align='center' src='https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white'>  <img align='center' src='https://img.shields.io/badge/Aseprite-FFFFFF?style=for-the-badge&logo=Aseprite&logoColor=#7D929E'></p>
+</p>
+
   
 
   
